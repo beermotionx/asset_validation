@@ -1,0 +1,7 @@
+{
+    "asset_validations": {
+        "1": true,
+        "2": false
+    },
+    "skip_never_cook_asset": true
+}
